@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaccatalystLibsodium", "MaccatalystLibsodium\MaccatalystLibsodium.csproj", "{94C0AA42-3EDE-44D4-B237-3B0A1AC96F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C0AA42-3EDE-44D4-B237-3B0A1AC96F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C0AA42-3EDE-44D4-B237-3B0A1AC96F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C0AA42-3EDE-44D4-B237-3B0A1AC96F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C0AA42-3EDE-44D4-B237-3B0A1AC96F63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0D7DEF9-F458-40F0-8AF7-3B479645C078}
+	EndGlobalSection
+EndGlobal
